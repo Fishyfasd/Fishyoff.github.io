@@ -6,10 +6,10 @@
     crossorigin="anonymous"></script>
     <meta charset="utf-8" />
     <meta name="description" content="Free games for everyone.In just some clicks you can download some games for boring days.">
-    <meta name="keywords" content="aliensoft,Aliensoft,games,free,cheap,boring">
+    <meta name="keywords" content="yt,yt,games,free,cheap,boring">
     <meta name="viewport" content="width=device-width, initial-scale=1.0 user-scalable=no">
-    <meta name="google-site-verification" content="fqslIYkeTcZL2BxIDk9_P76G42XSwPE5R-ciU8I3ihQ" />
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+    <meta name="google-site-verification" content="rupee-4395554_1280-e1626070973451" />
+    <link rel="shortcut icon" type="image/x-icon" href="y.ico" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@500;800&display=swap" rel="stylesheet">
@@ -57,15 +57,15 @@
     <div class="jumbotron">
         <div id="main">
             <header id="header">
-                <h1 style="text-align : center; font-size : 72px;"><strong>Aliensoft Games</strong></h1>
+                <h1 style="text-align : center; font-size : 72px;"><strong>yt Games</strong></h1>
             </header>
         </div>
     </div>
     <div class="col-md-4">
         <p style="font-size:160px;"></p>
-        <h1 style="text-align:center"><strong>What is Aliensoft Games ?</strong></h1>
+        <h1 style="text-align:center"><strong>What is yt Games ?</strong></h1>
         <p style="text-align:center">
-            Maybe you have some questions about what is <strong>Aliensoft Games.</strong><br />
+            Maybe you have some questions about what is <strong>yt Games.</strong><br />
             Aliensoft Games is a game company.I made a game called Just a ball game.
         </p>
     </div>
@@ -109,7 +109,7 @@
     </div>
     <footer>
         <p style="font-size:200px;"></p>
-        <p style="text-align:center;">&copy;Aliensoft Games.All rights reserved.</p>
+        <p style="text-align:center;">&copy;yft Games.All rights reserved.</p>
     </footer>
 </body>
 </html>
